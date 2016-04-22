@@ -39,7 +39,7 @@ BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_PAGESIZE := 2048
 TARGET_PREBUILT_KERNEL := device/samsung/j1pop3g/prebuilt/kernel
 # Use this if you use a prebuilt kernel
-BOARD_MKBOOTIMG_ARGS := --second device/samsung/j1pop3g/second.bin
+BOARD_MKBOOTIMG_ARGS := --second device/samsung/j1pop3g/prebuilt/second.bin
 
 # lun
 TARGET_USE_CUSTOM_LUN_FILE_PATH := /sys/devices/virtual/android_usb/android0/f_mass_storage/lun0/file
