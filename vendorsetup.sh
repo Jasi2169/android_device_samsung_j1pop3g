@@ -1,0 +1,4 @@
+add_lunch_combo cm_j1pop3g-userdebug
+add_lunch_combo cm_j1pop3g-eng
+add_lunch_combo omni_j1pop3g-userdebug
+add_lunch_combo omni_j1pop3g-eng
